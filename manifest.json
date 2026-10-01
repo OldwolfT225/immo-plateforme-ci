@@ -1,0 +1,10 @@
+{
+  "project": "immo-platform-ci",
+  "files": [
+    "CLAUDE.md",
+    "docs/PRD_V1.md",
+    "docs/SECURITY_AND_COMPLIANCE.md",
+    "docs/CLAUDE_RUNBOOK.md",
+    "docs/GO_NO_GO_CHECKLIST.md"
+  ]
+}
